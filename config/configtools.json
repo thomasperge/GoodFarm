@@ -1,0 +1,37 @@
+{
+    "Price": {
+        "toolslvl1_Price": 0,
+        "toolslvl2_Price": 2500,
+        "toolslvl3_Price": 10000,
+        "toolslvl4_Price": 45000,
+        "toolslvl5_Price": 200000,
+        "toolslvl6_Price": 850000,
+        "toolslvl7_Price": 3825000,
+        "toolslvl8_Price": 325,
+        "toolslvl9_Price": 1025,
+        "toolslvl10_Price": 3258,
+        "toolslvl11_Price": 10345
+    },
+    "Profit": {
+        "toolslvl1_Profit": 1,
+        "toolslvl2_Profit": 2.7,
+        "toolslvl3_Profit": 5.1,
+        "toolslvl4_Profit": 8.8,
+        "toolslvl5_Profit": 14.5,
+        "toolslvl6_Profit": 23,
+        "toolslvl7_Profit": 35.4,
+        "toolslvl8_Profit": 53.5,
+        "toolslvl9_Profit": 79.6,
+        "toolslvl10_Profit": 116.6,
+        "toolslvl11_Profit": 178.7
+    },
+    "PriceGenerator": {
+        "generatorlvl_1Price": 50,
+        "generatorlvl_2Price": 165,
+        "generatorlvl_3Price": 485,
+        "generatorlvl_4Price": 980,
+        "generatorlvl_5Price": 1895,
+        "generatorlvl_6Price": 3440,
+        "generatorlvl_7Price": 5635
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "gemPrice": {
+        "rainbow": 38,
+        "clover": 105
+    },
+    "priceItems": {
+        "bush": 0.11,
+        "wheat": 0.20,
+        "corn": 0.42,
+        "potato": 1.08,
+        "carrot": 2.41,
+        "clover": 5.05,
+
+        "stone": 0.19,
+        "coal": 0.39,
+        "iron": 1.18,
+        "gold": 2.21,
+        "diamond": 3.14,
+        "rainbow": 12.18
+    }
+}

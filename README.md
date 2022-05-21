@@ -1,1 +1,2 @@
-# PlaceHolder
+# GoodFarm
+# RPG Discord Bot
