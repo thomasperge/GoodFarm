@@ -16,8 +16,8 @@ module.exports.run = async (client, message, args) => {
         { name: 'Uptime :', value: uptimeForEmbed, inline: true },
         { name: 'Programming language  :', value: 'JavaScript', inline: true },
         { name: 'API  :', value: apiForEmbed, inline: true },
-        { name: 'Number Commands  :', value: '10', inline: true },
-        { name: 'Version  :', value: 'GoodFarm 0.1', inline: true },
+        { name: 'Number Commands  :', value: '26', inline: true },
+        { name: 'Version  :', value: 'GoodFarm 2.4', inline: true },
         { name: 'Users  :', value: `${client.users.cache.size}`, inline: true },
         { name: 'Guilds :', value: `${client.guilds.cache.size}`, inline: true }
       )
