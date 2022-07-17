@@ -38,8 +38,6 @@ fs.readdir('./commandes/', (err, files) => {
 client.on('ready', () => {
    console.log('GoodFarm BETA: Prêt !');
    client.user.setActivity(`people's farms | ghelp`);
-   // const logChannel = client.channels.cache.get('819903067570831380');
-   // logChannel.send('Restart du bot');
 });
 client.login(config.token);
 

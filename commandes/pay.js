@@ -22,6 +22,7 @@ module.exports.run = async (client, message, args) => {
   if (user === userInput) {
     return message.reply("❌ it's not good to want to cheat...");
   }
+  
   /**========= User ========= */
   /**=== Account Economy User ===*/
   let economyUser = await EconomyData.findOne({ userId: message.author.id });
@@ -52,7 +53,9 @@ module.exports.run = async (client, message, args) => {
               return message.channel.send(`**=====> Trade <=====**\n<${user}> **gives** <${userInput}> : **${amoutInput}${emoji}**\n${user}: - **${amoutInput}**${emoji}\n${userInput}: + **${amoutInput}***${emoji}`);
             }
           }
+
           var itemList = ['coins', 'gem', 'chest', 'bush', 'wheat', 'corn', 'potato', 'carrot', 'clover', 'stone', 'coal', 'iron', 'gold', 'diamond', 'rainbow', 'money'];
+          
           function itemFunction() {
             /**=== ECONOMY ===*/
             /**Coins */
