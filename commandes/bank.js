@@ -22,7 +22,7 @@ module.exports.run = async (client, message, args) => {
         d++;
       }
       return c;
-    }
+    };
 
     function main() {
       var bankEmbed = new Discord.MessageEmbed()
