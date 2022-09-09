@@ -1,7 +1,7 @@
 **Made by ElThomas ❤️ in France**
 
 ### **➡️ GoodFarm - RPG Discord Bot**
-150 servers - 4250 players
+350 servers - +11500 players
 
 Goodfarm is a bot discord RPG, where you mine and farm to collect resources and earn money. There is a system of pickaxe, shovel, generator,... The algorithm is based on an exponential base of tool prices. There is also a system of exchange of resources.
 
