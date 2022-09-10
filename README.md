@@ -5,7 +5,7 @@
 
 Goodfarm is a bot discord RPG, where you mine and farm to collect resources and earn money. There is a system of pickaxe, shovel, generator,... The algorithm is based on an exponential base of tool prices. There is also a system of exchange of resources.
 
-➡️ ``Statistics``:</br>
+➡️ ``Statistics`` :</br>
 26 Commands </br>
 Language: JavaScript </br>
 DataBase: MongoDb </br>
